@@ -1,57 +1,57 @@
-{
+{ 
        "menu":{
-           "appetizers":{
-               "nachos":{
+           "appetizers":[
+               {   "name":"nachos",
                    "ingredients":["corn chips", "nacho cheese","chili","jalapenos","olives"],
                    "description":"our house made corn chips topped with chili, nacho cheese, olives, and fresh cut jalapenos"
                },
-               "deep fried pickles":{
+               {   "name":"deep fried pickles",
                    "ingredients":["pickles", "house made batter", "optional dip"],
                    "dipping sauce":["honey mustard","barbecue","deli special"],
                    "description":"our home made pickles dipped in house made beer batter deep fried in peanut oil, served with your choice of dipping sauce"
                }
-           },
-           "cold sandwiches":{
-               "the triple hog":{
+            ],
+           "cold sandwiches":[
+               {   "name":"the triple hog",
                    "ingredients":["9 grain whole wheat","smoked ham","honey ham","bacon"],
                    "sauce":["honey mustard","dijon mustard","sweet onion sauce","barbecue sauce"],
                    "description":"savory smoked ham, sweet honey ham, and mouth watering thick cut bacon on our house made bread made fresh daily, topped with your choice of sauce"
                },
-               "what the cluck":{
+               {   "name":"what the cluck",
                    "ingredients":["potato bread","smoked chicken","bbq chicken","grilled chicken"],
                    "sauce":["dijon mustard","barbecue sauce","honey mustard","honey mustard"],
                    "description":"try a taste of the south with our what the cluck sandwich. loaded with chicken prepared three ways and your choice of sauce on delicious house made potato bread."
                }
-           },
-           "hot sandwiches":{
-               "french dip sliders":{
+            ],
+           "hot sandwiches":[
+               {    "name":"what the cluck",
                    "ingredients":["ciabatta roll","grilled onion","prime rib","au jus dip"],
                    "description":""
                },
-               "patty melt":{
+               {    "name":"patty melt",
                    "ingredients":["marble rye bread","beef pattys","provolone cheese","swiss cheese"],
                    "description":"our delicious patty melt stacked high with two 1/2 pound beef patty's, multiple slices of swiss and provolone cheese between our house made marble rye bread"
                }
-           },
-           "desserts":{
-               "chocolate chip cookies":{
+            ],
+           "desserts":[
+               {    "name":"chocolate chip cookies",
                    "ingredients":["chocolate chips","flour","sugar","egg","baking soda","water","butter","brown sugar","vanilla extract","salt"],
                    "description":"finish your meal with our delicious home made chocolate chip cookies"
                },
-               "sugar cookies":{
+               {    "name":"sugar cookies",
                    "ingredients":["flour","baking soda","baking powder","butter","sugar","eggs","vanilla extract"],
                    "description":"end your meal on a sweet note with our delectable sugar cookies made fresh every day"
                }
-           },
-           "drinks":{
-               "lemonade":{
+            ],
+           "drinks":[
+               {    "name":"lemonade",
                    "ingredients":["water","lemon","sugar"],
                    "description":"wash you meal down with lemonade made in-house with fresh squeezed lemons"
                },
-               "southern sweet tea":{
+               {    "name":"southern sweet tea",
                    "ingredients":["black tea","water","sugar"],
                    "description":"help your food go down smooth with a taste of the south. our home made sweet tea is made with quality black tea and simple syrup like grandma used to make."
                }
-           }
+            ]
        }
 }
