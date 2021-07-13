@@ -1,0 +1,31 @@
+#charStats{
+    list-style-type: none;
+    border: solid black 10px;
+    background-color: burlywood;
+}
+#films{
+    list-style-type: none;
+    border: solid black 10px;
+    background-color: cadetblue;
+}
+#species{
+    list-style-type: none;
+    border: solid black 10px;
+    background-color: coral;
+}
+#vehicles{
+    list-style-type: none;
+    border: solid black 10px;
+    background-color: darkcyan;
+}
+#starships{
+    list-style-type: none; 
+    border: solid black 10px;
+    background-color: darkgoldenrod;
+   
+}
+#source{
+    list-style-type: none;
+    border: solid black 10px;
+    background-color: tan;
+}
