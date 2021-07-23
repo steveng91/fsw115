@@ -55,9 +55,3 @@ var source = [
 document.getElementById('created').innerHTML=created
 document.getElementById('edited').innerHTML=edited
 document.getElementById('url').innerHTML=url
-//let stats = ""
-//for (let x in statSheet){
-  //  stats += statSheet[x] + ""
-
-//document.getElementById('charStats').innerHTML = stats
-//}
