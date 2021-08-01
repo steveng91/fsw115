@@ -1,0 +1,22 @@
+header{
+    border-bottom: solid black 10px;
+    align-content: center;
+    background-color: blue;
+}
+#page2{
+    text-align: center;
+}
+body{
+    text-align: center;
+    border: solid black 10px;
+    background-color: blueviolet;
+}
+#list{
+    border-radius: 100%;
+}
+#btn3{
+    border-radius: 100%;
+}
+footer{
+    border-top: solid black 10px;
+}
