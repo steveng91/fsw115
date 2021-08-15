@@ -16,6 +16,7 @@ const displayItems = (items)=>{
 
           const name = document.createElement('h1')
           name.textContent = item.name
+         
           if(item.isComplete == true){
                name.style.textDecoration = 'line-through'
           }

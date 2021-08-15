@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: blue;
+}
+h1{
+    border: solid black 5px;
+    margin: 0%;
+    background-color: blueviolet;
+}
+h2{
+    border: solid black 5px;
+    margin: 0%;
+    background-color: violet;
+}

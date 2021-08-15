@@ -1,11 +1,38 @@
+header{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    border-bottom: solid black 10px;
+    background-color: blue;
+}
+#todoForm{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: solid black 10px;
+    border-left: solid black 10px;
+    border-right: solid black 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(87, 87, 255);
+}
+#submit{
+    font-size: 20px;
+}
 #itemContainer{
     display: flex;
+    flex-wrap: wrap;
+    
 }
 .itemCard{
 border: solid black 2px;
 border-radius: 10%;
 height: fit-content;
-width: 200px;
+min-width: 200px;
 text-align: center;
 margin: 10px;
+background-color: rgb(0, 255, 0);
+}
+body{
+    background-color: blue;
 }
