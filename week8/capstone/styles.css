@@ -1,0 +1,18 @@
+body{
+    background-color: lightsalmon;
+    flex-wrap: wrap;
+}
+#bountyPoster{
+    border: solid black 10px;
+    padding: 10px;
+    background-color: mediumturquoise
+    ;
+}
+#itemContainer{
+    border: solid black 10px;
+}
+.itemCard{
+    border: solid black 5px;
+    background-color: lime;
+    text-align: center;
+}
